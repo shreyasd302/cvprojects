@@ -1,2 +1,2 @@
 Hello!!
-This repository contains my projects on Computer Vision IoT.
+This repository contains my projects on Computer Vision & IoT.
